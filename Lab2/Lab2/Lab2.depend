@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1461753052 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\mg1queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"event.h"
+	"record.h"
+	"simtime.h"
+	<math.h>
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\event.h
+	"simtime.h"
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\simtime.h
+	<float.h>
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\record.h
+	"simtime.h"
+
+1446671344 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+

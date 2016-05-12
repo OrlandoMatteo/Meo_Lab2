@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1461130500 source:/home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/event.c
+	<stdio.h>
+	<stdlib.h>
+	"event.h"
+
+1461130502 /home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/event.h
+	"simtime.h"
+
+1461130502 /home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/simtime.h
+	<float.h>
+
+1461130502 source:/home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/random.c
+	<stdio.h>
+	<math.h>
+
+1461130502 source:/home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/record.c
+	<stdio.h>
+	<stdlib.h>
+	"record.h"
+
+1461130502 /home/federico/Scrivania/Smart Network Simulation/LAB2/Lab2/record.h
+	"simtime.h"
+
+1462373722 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\event.c
+	<stdio.h>
+	<stdlib.h>
+	"event.h"
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\event.h
+	"simtime.h"
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\simtime.h
+	<float.h>
+
+1462962338 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"event.h"
+	"record.h"
+	"simtime.h"
+	<math.h>
+
+1462373722 d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\record.h
+	"simtime.h"
+
+1462373722 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\random.c
+	<stdio.h>
+	<math.h>
+
+1462373722 source:d:\cloud\onedrive\documenti\management for content delivery\lab\lab2\record.c
+	<stdio.h>
+	<stdlib.h>
+	"record.h"
+
